@@ -1,5 +1,6 @@
 package com.java.samples;
 import java.io.*;
+import java.nio.file.Files;
 
 /*
  Realization of File Reading using BufferedReader
